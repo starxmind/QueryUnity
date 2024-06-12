@@ -1,6 +1,6 @@
 package com.starxmind.queryunity.core;
 
-public class Query {
+public class QueryUnity {
     public static QueryStream stream() {
         return new QueryStream();
     }
